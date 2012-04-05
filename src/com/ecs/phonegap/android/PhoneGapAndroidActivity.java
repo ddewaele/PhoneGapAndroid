@@ -1,10 +1,10 @@
-package com.ecs.room12.phonegap.android;
+package com.ecs.phonegap.android;
 
 import org.apache.cordova.DroidGap;
 
 import android.os.Bundle;
 
-public class Room12PhoneGapAndroidActivity extends DroidGap  {
+public class PhoneGapAndroidActivity extends DroidGap  {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
